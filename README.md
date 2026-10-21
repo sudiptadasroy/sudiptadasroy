@@ -108,9 +108,9 @@ GIS research exploring mining accidents, spatial patterns, and mine-safety asses
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptadasroy"
+    src="https://github-readme-stats.vercel.app/api?username=sudiptadasroy&show_icons=true&theme=tokyonight&hide_border=true"
     width="100%"
-    alt="Sudipta's GitHub activity graph"
+    alt="GitHub profile statistics"
   />
 </p>
 
