@@ -1,4 +1,3 @@
-
 # 🌍 Sudipta Das Roy
 
 ### Geoinformatics | GIS Engineering | Remote Sensing | GeoAI
