@@ -78,15 +78,42 @@ GIS research exploring mining accidents, spatial patterns, and mine-safety asses
 
 [Explore Repositories →](https://github.com/sudiptadasroy?tab=repositories)
 
-## 📊 GitHub Activity
+
+## 🌐 Geospatial Engineering Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudiptadasroy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,github,vscode" alt="Programming and development tools" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptadasroy&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img src="https://img.shields.io/badge/QGIS-GIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-Remote_Sensing-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-Spatial_Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoAI-Machine_Learning-8A2BE2?style=for-the-badge" />
 </p>
+
+### 📈 Development Activity
+
+<p align="center">
+  <a href="https://github.com/sudiptadasroy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptadasroy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+### 🛰️ My Geospatial Toolkit
+
+| Domain | Focus |
+|---|---|
+| Remote Sensing | Sentinel-1, Sentinel-2, Landsat |
+| Spatial Analytics | Raster analysis, vector analysis, hotspot mapping |
+| GeoAI | Machine learning for geospatial applications |
+| WebGIS | Leaflet, Streamlit, GeoServer |
+| Spatial Databases | PostgreSQL, PostGIS |
+
+<p align="center">
+  <i>Building geospatial solutions, one map at a time. 🌍</i>
+</p>
+
 
 ## 🌱 Currently Exploring
 
