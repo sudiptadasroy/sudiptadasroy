@@ -114,15 +114,29 @@ GIS research exploring mining accidents, spatial patterns, and mine-safety asses
 </p>
 
 
-### 📈 Development Activity
+
+## 📊 Development Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SudiptaDasRoy&show_icons=true&theme=tokyonight&hide_border=true"
-    width="100%"
-    alt="GitHub profile statistics"
+    src="https://github-readme-stats.vercel.app/api?username=sudiptadasroy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptadasroy&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="165"
+    alt="Most-used programming languages"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sudiptadasroy&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
 
 ### 🛰️ My Geospatial Toolkit
 
