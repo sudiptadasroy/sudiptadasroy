@@ -26,11 +26,21 @@
 </p>
 
 
-## 👨‍💻 About Me
+## 🌍 About Me
 
-I'm an M.Sc. Geoinformatics student at **TERI School of Advanced Studies**, interested in building practical geospatial solutions using GIS, remote sensing, spatial analytics, and GeoAI.
+I'm an **M.Sc. Geoinformatics student at TERI School of Advanced Studies**, focused on developing practical geospatial solutions using GIS, Remote Sensing, Spatial Analytics, and GeoAI.
 
-My work focuses on transforming geographic data into useful insights for environmental monitoring, natural-hazard assessment, coastal analysis, and spatial decision-making.
+I gained research and practical experience through an internship at **ISRO's Regional Remote Sensing Centre – South (RRSC-South)**, where I worked on geospatial assessment of Blue Flag beaches, including shoreline change and land-use/land-cover (LULC) analysis of Shivrajpur Beach, Gujarat, and Eden Beach, Puducherry.
+
+I'm also a **co-author of a research paper presented/published through the Asian Conference on Remote Sensing (ACRS)**, contributing to my growing interest in scientific research, remote sensing applications, and geospatial problem-solving.
+
+My technical interests include:
+- 🛰️ **Remote Sensing:** Satellite imagery analysis, Sentinel-1/Sentinel-2, Landsat, and Google Earth Engine.
+- 🗺️ **GIS & Spatial Analytics:** Spatial modelling, hotspot analysis, environmental monitoring, and natural-hazard assessment.
+- 🤖 **GeoAI & Data Science:** Python-based geospatial analysis and machine learning applications.
+- 🌐 **WebGIS:** Interactive mapping, spatial databases, and geospatial application development.
+
+I aim to bridge **geospatial research, software development, and real-world decision-making** by building reproducible, data-driven solutions for environmental and societal challenges.
 
 - 🎓 M.Sc. Geoinformatics
 - 🛰️ GIS, remote sensing, and satellite data analysis
