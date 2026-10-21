@@ -33,7 +33,8 @@ My work focuses on transforming geographic data into useful insights for environ
 | Category | Technologies |
 |---|---|
 | GIS | QGIS, ArcGIS Pro, Google Earth Pro |
-| Remote Sensing | Google Earth Engine, Sentinel-1, Sentinel-2, Landsat |
+| Remote Sensing | Google Earth Engine, Sentinel-1 SAR, Sentinel-2 MSI, Landsat 8/9, MODIS, Resourcesat-2 LISS-IV, ERDAS IMAGINE, SNAP |
+| Remote Sensing Analysis | NDVI, NDWI, MNDWI, LULC Classification, Change Detection, Land Surface Temperature, SAR Analysis |
 | Programming | Python, JavaScript, SQL, C++ |
 | Python GIS | GeoPandas, Rasterio, Shapely, Pandas, NumPy |
 | Web Mapping | Folium, Leaflet, Streamlit |
@@ -49,7 +50,9 @@ A Python-based GIS dashboard for exploring locations and visualizing geographic 
 
 **Stack:** Python · Streamlit · Pandas · Folium · OSRM
 
-[View Repository →](https://github.com/sudiptadasroy/GeoRoute-Explorer)
+
+**[View Repository →](https://github.com/sudiptadasroy/GeoRoute-Explorer)**
+
 
 ### 🔥 Forest Fire Risk Assessment
 
