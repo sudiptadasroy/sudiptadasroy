@@ -25,6 +25,9 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudiptadasroy/sudiptadasroy/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</p>
 
 
 ## 👨‍💻 About Me
