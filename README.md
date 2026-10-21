@@ -103,16 +103,15 @@ GIS research exploring mining accidents, spatial patterns, and mine-safety asses
   <img src="https://img.shields.io/badge/GeoAI-Machine_Learning-8A2BE2?style=for-the-badge" />
 </p>
 
+
 ### 📈 Development Activity
 
 <p align="center">
-  <a href="https://github.com/sudiptadasroy">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptadasroy&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"
-      width="100%"
-      alt="Sudipta's GitHub development activity graph"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudiptadasroy"
+    width="100%"
+    alt="Sudipta's GitHub activity graph"
+  />
 </p>
 
 ### 🛰️ My Geospatial Toolkit
