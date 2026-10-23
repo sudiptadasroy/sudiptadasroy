@@ -25,7 +25,7 @@
 </p>
 
 
-## 🌍 About Me
+ ## 🌍 About Me
 
 I'm an **M.Sc. Geoinformatics student at TERI School of Advanced Studies**, focused on developing practical geospatial solutions using GIS, Remote Sensing, Spatial Analytics, and GeoAI.
 
