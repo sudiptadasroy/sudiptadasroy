@@ -165,7 +165,7 @@ GIS research exploring mining accidents, spatial patterns, and mine-safety asses
 I'm interested in collaborating on geospatial projects, applied research, and opportunities in GIS engineering, remote sensing, and GeoAI.
 
 - 💻 GitHub: [@sudiptadasroy](https://github.com/sudiptadasroy)
-- 💼 LinkedIn: [Connect with me](linkedin.com/in/sudipta-das-roy-b4ba39352)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/sudipta-das-roy-b4ba39352)
 
 ---
 
